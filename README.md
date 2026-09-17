@@ -67,4 +67,5 @@ Follow these quick test cases in the terminal to verify allotment, fee computati
 * **Expected Result:** 
   * Exception is handled gracefully and displays: `>> Error: Room 202 is already full to capacity (1).`
 
- <img width="1417" height="891" alt="Screenshot 2026-09-14 214230" src="https://github.com/user-attachments/assets/7d0c2f24-b35b-4348-9dd5-b26bfbcfba3f" />
+ <img width="1917" height="1037" alt="Screenshot 2026-09-18 001932" src="https://github.com/user-attachments/assets/bf20660f-7b8d-428b-9a9a-a8453204955b" />
+
