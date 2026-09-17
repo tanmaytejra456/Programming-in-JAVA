@@ -49,14 +49,14 @@ Follow these quick test cases in the terminal to verify allotment, fee computati
 
 ### Test Case 1: Room Allotment & Automatic Billing
 * **Action:** Choose menu option `1` and enter:
-  * **Reg No:** `23BCE1001`
-  * **Student Name:** `Aarav Sharma`
-  * **Phone:** `9876543210`
+  * **Reg No:** `25BAI11243`
+  * **Student Name:** `Tanmay Tejra`
+  * **Phone:** `7003966928`
   * **Room No:** `201`
-  * **Mess Type:** `Non-Veg`
+  * **Mess Type:** `Veg`
 * **Expected Result:** 
   * Displays `>> Success: Room allotted and record saved.`
-  * Option `2` confirms Room `201` (AC: Rs. 45,000) + Non-Veg mess (Rs. 22,000) totals `Rs. 67000.00`.
+  * Option `2` confirms Room `201` (AC: Rs. 45,000) + Veg mess (Rs. 18,000) totals `Rs. 67000.00`.
 
 ---
 
