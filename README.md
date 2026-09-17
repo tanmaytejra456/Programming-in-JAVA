@@ -56,7 +56,7 @@ Follow these quick test cases in the terminal to verify allotment, fee computati
   * **Mess Type:** `Veg`
 * **Expected Result:** 
   * Displays `>> Success: Room allotted and record saved.`
-  * Option `2` confirms Room `201` (AC: Rs. 45,000) + Veg mess (Rs. 18,000) totals `Rs. 67000.00`.
+  * Option `2` confirms Room `201` (AC: Rs. 45,000) + Veg mess (Rs. 18,000) totals `Rs. 63000.00`.
 
 ---
 
